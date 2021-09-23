@@ -1,7 +1,7 @@
 About me...
 
 Kamal has over twenty years of experience as a software engineer, working in a variety of industries including 
-education, health care, government, media, and enterprise/cloud computing ☁️ (Eucalyptus, Hewlett-Packard, and Rackspace).
+education, health care, government, media, and enterprise/cloud computing.
 
 Prior to joining Okta, Kamal worked as a Principal Engineer at Rackspace for four years, building cloud-enabled portals and services to better serve Rackspace support engineers and customers.
 
